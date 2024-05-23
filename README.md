@@ -1,3 +1,3 @@
 # terraform-practice
 
-test
+This is my first Terraform project for DevOps practice
